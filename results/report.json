@@ -1,0 +1,1189 @@
+{
+  "created": "2026-11-14 11:52",
+  "data": {
+    "raw_postings": 97929,
+    "after_removing_repeats": 85948,
+    "with_skills": 85379,
+    "clean_postings": 85379,
+    "unique_skills": 42358,
+    "salary_shown_pct": 35.1,
+    "other_family_pct": 13.2
+  },
+  "top_skills": [
+    {
+      "label": "Sales",
+      "jobs": 7401,
+      "pct_of_jobs": 8.67
+    },
+    {
+      "label": "Customer Service",
+      "jobs": 5005,
+      "pct_of_jobs": 5.86
+    },
+    {
+      "label": "Python",
+      "jobs": 4932,
+      "pct_of_jobs": 5.78
+    },
+    {
+      "label": "Project Management",
+      "jobs": 4766,
+      "pct_of_jobs": 5.58
+    },
+    {
+      "label": "SAP",
+      "jobs": 4153,
+      "pct_of_jobs": 4.86
+    },
+    {
+      "label": "SQL",
+      "jobs": 3573,
+      "pct_of_jobs": 4.18
+    },
+    {
+      "label": "Communication",
+      "jobs": 3523,
+      "pct_of_jobs": 4.13
+    },
+    {
+      "label": "Java",
+      "jobs": 3450,
+      "pct_of_jobs": 4.04
+    },
+    {
+      "label": "CSS",
+      "jobs": 3326,
+      "pct_of_jobs": 3.9
+    },
+    {
+      "label": "Business Development",
+      "jobs": 2902,
+      "pct_of_jobs": 3.4
+    },
+    {
+      "label": "Team Management",
+      "jobs": 2856,
+      "pct_of_jobs": 3.35
+    },
+    {
+      "label": "JavaScript",
+      "jobs": 2740,
+      "pct_of_jobs": 3.21
+    },
+    {
+      "label": "English",
+      "jobs": 2408,
+      "pct_of_jobs": 2.82
+    },
+    {
+      "label": "C#",
+      "jobs": 2319,
+      "pct_of_jobs": 2.72
+    },
+    {
+      "label": "Agile",
+      "jobs": 2263,
+      "pct_of_jobs": 2.65
+    },
+    {
+      "label": "Accounting",
+      "jobs": 2225,
+      "pct_of_jobs": 2.61
+    },
+    {
+      "label": "Automation",
+      "jobs": 2212,
+      "pct_of_jobs": 2.59
+    },
+    {
+      "label": "Troubleshooting",
+      "jobs": 2075,
+      "pct_of_jobs": 2.43
+    },
+    {
+      "label": "REST",
+      "jobs": 1983,
+      "pct_of_jobs": 2.32
+    },
+    {
+      "label": "Marketing",
+      "jobs": 1926,
+      "pct_of_jobs": 2.26
+    }
+  ],
+  "top_fresher_skills": [
+    {
+      "label": "Customer Service",
+      "jobs": 2204,
+      "pct_of_jobs": 20.31
+    },
+    {
+      "label": "Communication",
+      "jobs": 1567,
+      "pct_of_jobs": 14.44
+    },
+    {
+      "label": "Sales",
+      "jobs": 1419,
+      "pct_of_jobs": 13.08
+    },
+    {
+      "label": "English",
+      "jobs": 1285,
+      "pct_of_jobs": 11.84
+    },
+    {
+      "label": "Voice Process",
+      "jobs": 1175,
+      "pct_of_jobs": 10.83
+    },
+    {
+      "label": "BPO",
+      "jobs": 1151,
+      "pct_of_jobs": 10.61
+    },
+    {
+      "label": "International Voice Process",
+      "jobs": 717,
+      "pct_of_jobs": 6.61
+    },
+    {
+      "label": "International Call Center",
+      "jobs": 601,
+      "pct_of_jobs": 5.54
+    },
+    {
+      "label": "Hindi",
+      "jobs": 586,
+      "pct_of_jobs": 5.4
+    },
+    {
+      "label": "Telesales",
+      "jobs": 576,
+      "pct_of_jobs": 5.31
+    }
+  ],
+  "top_skills_by_family": {
+    "Software Development": [
+      {
+        "label": "Java",
+        "pct_of_jobs": 17.1
+      },
+      {
+        "label": "CSS",
+        "pct_of_jobs": 16.1
+      },
+      {
+        "label": "Python",
+        "pct_of_jobs": 14.5
+      },
+      {
+        "label": "JavaScript",
+        "pct_of_jobs": 12.5
+      },
+      {
+        "label": "C#",
+        "pct_of_jobs": 11.8
+      },
+      {
+        "label": "SQL",
+        "pct_of_jobs": 9.9
+      },
+      {
+        "label": "REST",
+        "pct_of_jobs": 9.5
+      },
+      {
+        "label": "CI/CD",
+        "pct_of_jobs": 8.4
+      }
+    ],
+    "Management & Operations": [
+      {
+        "label": "Project Management",
+        "pct_of_jobs": 15.1
+      },
+      {
+        "label": "Team Management",
+        "pct_of_jobs": 8.2
+      },
+      {
+        "label": "Sales",
+        "pct_of_jobs": 7.4
+      },
+      {
+        "label": "Customer Service",
+        "pct_of_jobs": 4.8
+      },
+      {
+        "label": "Communication",
+        "pct_of_jobs": 3.8
+      },
+      {
+        "label": "Business Analysis",
+        "pct_of_jobs": 3.7
+      },
+      {
+        "label": "Data Analysis",
+        "pct_of_jobs": 3.6
+      },
+      {
+        "label": "Business Development",
+        "pct_of_jobs": 3.2
+      }
+    ],
+    "Other": [
+      {
+        "label": "Customer Service",
+        "pct_of_jobs": 6.2
+      },
+      {
+        "label": "Project Management",
+        "pct_of_jobs": 5.6
+      },
+      {
+        "label": "Python",
+        "pct_of_jobs": 4.7
+      },
+      {
+        "label": "Communication",
+        "pct_of_jobs": 4.6
+      },
+      {
+        "label": "Sales",
+        "pct_of_jobs": 4.1
+      },
+      {
+        "label": "Troubleshooting",
+        "pct_of_jobs": 3.2
+      },
+      {
+        "label": "SQL",
+        "pct_of_jobs": 3.0
+      },
+      {
+        "label": "C++",
+        "pct_of_jobs": 2.9
+      }
+    ],
+    "Sales & Business Development": [
+      {
+        "label": "Sales",
+        "pct_of_jobs": 47.1
+      },
+      {
+        "label": "Business Development",
+        "pct_of_jobs": 18.3
+      },
+      {
+        "label": "B2B Sales",
+        "pct_of_jobs": 12.6
+      },
+      {
+        "label": "Lead Generation",
+        "pct_of_jobs": 10.9
+      },
+      {
+        "label": "Communication",
+        "pct_of_jobs": 8.9
+      },
+      {
+        "label": "Marketing",
+        "pct_of_jobs": 8.3
+      },
+      {
+        "label": "Field Sales",
+        "pct_of_jobs": 7.6
+      },
+      {
+        "label": "Customer Service",
+        "pct_of_jobs": 6.8
+      }
+    ],
+    "Production, Supply Chain & Core Engg": [
+      {
+        "label": "Production",
+        "pct_of_jobs": 6.5
+      },
+      {
+        "label": "Procurement",
+        "pct_of_jobs": 6.2
+      },
+      {
+        "label": "AutoCAD",
+        "pct_of_jobs": 5.9
+      },
+      {
+        "label": "Maintenance",
+        "pct_of_jobs": 4.9
+      },
+      {
+        "label": "Quality Control",
+        "pct_of_jobs": 4.2
+      },
+      {
+        "label": "Project Management",
+        "pct_of_jobs": 4.2
+      },
+      {
+        "label": "Purchase",
+        "pct_of_jobs": 4.1
+      },
+      {
+        "label": "SAP",
+        "pct_of_jobs": 3.6
+      }
+    ],
+    "Finance & Accounts": [
+      {
+        "label": "Accounting",
+        "pct_of_jobs": 26.0
+      },
+      {
+        "label": "TDS",
+        "pct_of_jobs": 11.3
+      },
+      {
+        "label": "Tally",
+        "pct_of_jobs": 11.0
+      },
+      {
+        "label": "Finance",
+        "pct_of_jobs": 10.8
+      },
+      {
+        "label": "GST",
+        "pct_of_jobs": 10.5
+      },
+      {
+        "label": "Financial Analysis",
+        "pct_of_jobs": 7.8
+      },
+      {
+        "label": "Auditing",
+        "pct_of_jobs": 7.7
+      },
+      {
+        "label": "Taxation",
+        "pct_of_jobs": 7.3
+      }
+    ],
+    "SAP & ERP": [
+      {
+        "label": "SAP",
+        "pct_of_jobs": 40.2
+      },
+      {
+        "label": "Oracle",
+        "pct_of_jobs": 11.1
+      },
+      {
+        "label": "SAP HANA",
+        "pct_of_jobs": 8.6
+      },
+      {
+        "label": "SAP SD",
+        "pct_of_jobs": 8.3
+      },
+      {
+        "label": "SAP S HANA",
+        "pct_of_jobs": 7.5
+      },
+      {
+        "label": "Project Management",
+        "pct_of_jobs": 7.5
+      },
+      {
+        "label": "SAP ABAP",
+        "pct_of_jobs": 6.4
+      },
+      {
+        "label": "ABAP",
+        "pct_of_jobs": 6.1
+      }
+    ],
+    "Customer Support & BPO": [
+      {
+        "label": "Customer Service",
+        "pct_of_jobs": 58.0
+      },
+      {
+        "label": "Voice Process",
+        "pct_of_jobs": 32.6
+      },
+      {
+        "label": "BPO",
+        "pct_of_jobs": 26.1
+      },
+      {
+        "label": "International Voice Process",
+        "pct_of_jobs": 23.6
+      },
+      {
+        "label": "International BPO",
+        "pct_of_jobs": 18.5
+      },
+      {
+        "label": "International Call Center",
+        "pct_of_jobs": 17.7
+      },
+      {
+        "label": "Communication",
+        "pct_of_jobs": 15.6
+      },
+      {
+        "label": "Voice",
+        "pct_of_jobs": 12.8
+      }
+    ],
+    "Data & AI": [
+      {
+        "label": "Python",
+        "pct_of_jobs": 42.7
+      },
+      {
+        "label": "SQL",
+        "pct_of_jobs": 25.5
+      },
+      {
+        "label": "Machine Learning",
+        "pct_of_jobs": 22.6
+      },
+      {
+        "label": "Data Analysis",
+        "pct_of_jobs": 15.3
+      },
+      {
+        "label": "Artificial Intelligence",
+        "pct_of_jobs": 12.3
+      },
+      {
+        "label": "Power BI",
+        "pct_of_jobs": 11.1
+      },
+      {
+        "label": "Pyspark",
+        "pct_of_jobs": 9.4
+      },
+      {
+        "label": "Data Engineering",
+        "pct_of_jobs": 9.1
+      }
+    ],
+    "HR & Recruitment": [
+      {
+        "label": "Recruitment",
+        "pct_of_jobs": 37.5
+      },
+      {
+        "label": "Talent Acquisition",
+        "pct_of_jobs": 23.5
+      },
+      {
+        "label": "End To End Recruitment",
+        "pct_of_jobs": 14.9
+      },
+      {
+        "label": "HR Operations",
+        "pct_of_jobs": 14.6
+      },
+      {
+        "label": "It Recruitment",
+        "pct_of_jobs": 13.3
+      },
+      {
+        "label": "HRSD",
+        "pct_of_jobs": 13.0
+      },
+      {
+        "label": "Human Resource Management",
+        "pct_of_jobs": 11.1
+      },
+      {
+        "label": "Sourcing",
+        "pct_of_jobs": 10.9
+      }
+    ],
+    "Marketing & Content": [
+      {
+        "label": "Digital Marketing",
+        "pct_of_jobs": 25.0
+      },
+      {
+        "label": "Marketing",
+        "pct_of_jobs": 22.0
+      },
+      {
+        "label": "SEO",
+        "pct_of_jobs": 15.3
+      },
+      {
+        "label": "Social Media",
+        "pct_of_jobs": 13.5
+      },
+      {
+        "label": "Social Media Marketing",
+        "pct_of_jobs": 10.3
+      },
+      {
+        "label": "Google Analytics",
+        "pct_of_jobs": 8.4
+      },
+      {
+        "label": "Content Writing",
+        "pct_of_jobs": 7.7
+      },
+      {
+        "label": "Media",
+        "pct_of_jobs": 7.5
+      }
+    ],
+    "IT Support & Networks": [
+      {
+        "label": "Troubleshooting",
+        "pct_of_jobs": 18.9
+      },
+      {
+        "label": "Networking",
+        "pct_of_jobs": 17.4
+      },
+      {
+        "label": "Technical Support",
+        "pct_of_jobs": 12.0
+      },
+      {
+        "label": "Customer Service",
+        "pct_of_jobs": 7.3
+      },
+      {
+        "label": "Network Security",
+        "pct_of_jobs": 7.3
+      },
+      {
+        "label": "Dns",
+        "pct_of_jobs": 6.9
+      },
+      {
+        "label": "Switching",
+        "pct_of_jobs": 6.8
+      },
+      {
+        "label": "Linux",
+        "pct_of_jobs": 6.8
+      }
+    ],
+    "Healthcare & Pharma": [
+      {
+        "label": "Medical Coding",
+        "pct_of_jobs": 13.3
+      },
+      {
+        "label": "Medical",
+        "pct_of_jobs": 10.3
+      },
+      {
+        "label": "Nursing",
+        "pct_of_jobs": 10.2
+      },
+      {
+        "label": "Pharmaceutical",
+        "pct_of_jobs": 8.9
+      },
+      {
+        "label": "Medical Writing",
+        "pct_of_jobs": 7.7
+      },
+      {
+        "label": "Clinical Research",
+        "pct_of_jobs": 7.6
+      },
+      {
+        "label": "Cpt",
+        "pct_of_jobs": 7.2
+      },
+      {
+        "label": "Patient Care",
+        "pct_of_jobs": 7.0
+      }
+    ],
+    "Design & Creative": [
+      {
+        "label": "Photoshop",
+        "pct_of_jobs": 26.0
+      },
+      {
+        "label": "Illustrator",
+        "pct_of_jobs": 20.7
+      },
+      {
+        "label": "Graphic Designing",
+        "pct_of_jobs": 20.5
+      },
+      {
+        "label": "Video Editing",
+        "pct_of_jobs": 17.0
+      },
+      {
+        "label": "Graphics",
+        "pct_of_jobs": 15.9
+      },
+      {
+        "label": "AutoCAD",
+        "pct_of_jobs": 11.5
+      },
+      {
+        "label": "Adobe After Effects",
+        "pct_of_jobs": 9.4
+      },
+      {
+        "label": "Adobe Premiere Pro",
+        "pct_of_jobs": 9.3
+      }
+    ],
+    "Teaching & Education": [
+      {
+        "label": "Teaching",
+        "pct_of_jobs": 37.9
+      },
+      {
+        "label": "Bed",
+        "pct_of_jobs": 16.9
+      },
+      {
+        "label": "Mathematics",
+        "pct_of_jobs": 14.4
+      },
+      {
+        "label": "Education",
+        "pct_of_jobs": 11.9
+      },
+      {
+        "label": "Tgt",
+        "pct_of_jobs": 11.5
+      },
+      {
+        "label": "Counselling",
+        "pct_of_jobs": 11.3
+      },
+      {
+        "label": "English",
+        "pct_of_jobs": 10.1
+      },
+      {
+        "label": "Tutoring",
+        "pct_of_jobs": 9.9
+      }
+    ]
+  },
+  "salary": {
+    "overall_median_lpa": 4.25,
+    "top": [
+      {
+        "label": "Kafka",
+        "jobs": 112,
+        "median_lpa": 19.5,
+        "median_exp": 6.0
+      },
+      {
+        "label": "CI/CD",
+        "jobs": 132,
+        "median_lpa": 18.0,
+        "median_exp": 5.0
+      },
+      {
+        "label": "Microservices",
+        "jobs": 231,
+        "median_lpa": 18.0,
+        "median_exp": 6.0
+      },
+      {
+        "label": "Azure",
+        "jobs": 247,
+        "median_lpa": 18.0,
+        "median_exp": 6.0
+      },
+      {
+        "label": "AWS",
+        "jobs": 349,
+        "median_lpa": 17.5,
+        "median_exp": 5.0
+      },
+      {
+        "label": "Cloud",
+        "jobs": 123,
+        "median_lpa": 17.5,
+        "median_exp": 5.0
+      },
+      {
+        "label": "GCP",
+        "jobs": 100,
+        "median_lpa": 17.5,
+        "median_exp": 5.0
+      },
+      {
+        "label": "Spring",
+        "jobs": 118,
+        "median_lpa": 17.2,
+        "median_exp": 5.0
+      },
+      {
+        "label": "DevOps",
+        "jobs": 115,
+        "median_lpa": 17.0,
+        "median_exp": 6.0
+      },
+      {
+        "label": "Artificial Intelligence",
+        "jobs": 169,
+        "median_lpa": 17.0,
+        "median_exp": 5.0
+      },
+      {
+        "label": "Machine Learning",
+        "jobs": 143,
+        "median_lpa": 17.0,
+        "median_exp": 5.0
+      },
+      {
+        "label": "Spring Boot",
+        "jobs": 266,
+        "median_lpa": 16.5,
+        "median_exp": 5.0
+      },
+      {
+        "label": "Python",
+        "jobs": 575,
+        "median_lpa": 15.5,
+        "median_exp": 5.0
+      },
+      {
+        "label": "Java",
+        "jobs": 567,
+        "median_lpa": 15.0,
+        "median_exp": 5.0
+      },
+      {
+        "label": "PostgreSQL",
+        "jobs": 105,
+        "median_lpa": 15.0,
+        "median_exp": 5.0
+      }
+    ]
+  },
+  "apriori": {
+    "min_support_pct": 0.2,
+    "min_confidence_pct": 30.0,
+    "frequent_sets": 1061,
+    "rules": 390,
+    "examples": [
+      {
+        "if_job_asks_for": "Front Desk",
+        "it_also_asks_for": "Receptionist Activities",
+        "jobs": 172,
+        "support_pct": 0.2,
+        "confidence_pct": 53.25,
+        "lift": 198.54,
+        "size": 2
+      },
+      {
+        "if_job_asks_for": "Receptionist Activities",
+        "it_also_asks_for": "Front Desk",
+        "jobs": 172,
+        "support_pct": 0.2,
+        "confidence_pct": 75.11,
+        "lift": 198.54,
+        "size": 2
+      },
+      {
+        "if_job_asks_for": "HR Generalist Activities + Screening",
+        "it_also_asks_for": "Joining Formalities",
+        "jobs": 354,
+        "support_pct": 0.41,
+        "confidence_pct": 97.52,
+        "lift": 145.06,
+        "size": 3
+      },
+      {
+        "if_job_asks_for": "Application Development + CSS",
+        "it_also_asks_for": "Development Methodologies",
+        "jobs": 378,
+        "support_pct": 0.44,
+        "confidence_pct": 70.92,
+        "lift": 113.82,
+        "size": 3
+      },
+      {
+        "if_job_asks_for": "Illustrator",
+        "it_also_asks_for": "Photoshop",
+        "jobs": 228,
+        "support_pct": 0.27,
+        "confidence_pct": 67.46,
+        "lift": 111.83,
+        "size": 2
+      },
+      {
+        "if_job_asks_for": "Application Development + C#",
+        "it_also_asks_for": "Development Methodologies",
+        "jobs": 303,
+        "support_pct": 0.35,
+        "confidence_pct": 68.55,
+        "lift": 110.02,
+        "size": 3
+      },
+      {
+        "if_job_asks_for": "Joining Formalities + Screening",
+        "it_also_asks_for": "HR Generalist Activities",
+        "jobs": 354,
+        "support_pct": 0.41,
+        "confidence_pct": 96.2,
+        "lift": 103.83,
+        "size": 3
+      },
+      {
+        "if_job_asks_for": "Agency Channel",
+        "it_also_asks_for": "Life Insurance",
+        "jobs": 185,
+        "support_pct": 0.22,
+        "confidence_pct": 61.87,
+        "lift": 93.5,
+        "size": 2
+      },
+      {
+        "if_job_asks_for": "Application Development + SAP",
+        "it_also_asks_for": "Development Methodologies",
+        "jobs": 178,
+        "support_pct": 0.21,
+        "confidence_pct": 57.23,
+        "lift": 91.85,
+        "size": 3
+      },
+      {
+        "if_job_asks_for": "Design Principles",
+        "it_also_asks_for": "Application Design",
+        "jobs": 238,
+        "support_pct": 0.28,
+        "confidence_pct": 56.8,
+        "lift": 89.48,
+        "size": 2
+      },
+      {
+        "if_job_asks_for": "Joining Formalities",
+        "it_also_asks_for": "HR Generalist Activities",
+        "jobs": 471,
+        "support_pct": 0.55,
+        "confidence_pct": 82.06,
+        "lift": 88.57,
+        "size": 2
+      },
+      {
+        "if_job_asks_for": "HR Generalist Activities",
+        "it_also_asks_for": "Joining Formalities",
+        "jobs": 471,
+        "support_pct": 0.55,
+        "confidence_pct": 59.54,
+        "lift": 88.57,
+        "size": 2
+      },
+      {
+        "if_job_asks_for": "Accounting + TDS",
+        "it_also_asks_for": "GST",
+        "jobs": 205,
+        "support_pct": 0.24,
+        "confidence_pct": 58.57,
+        "lift": 76.12,
+        "size": 3
+      },
+      {
+        "if_job_asks_for": "HR Generalist Activities + Joining Formalities",
+        "it_also_asks_for": "Screening",
+        "jobs": 354,
+        "support_pct": 0.41,
+        "confidence_pct": 75.16,
+        "lift": 75.58,
+        "size": 3
+      },
+      {
+        "if_job_asks_for": "Accounting + Accounts Receivable",
+        "it_also_asks_for": "Accounts Payable",
+        "jobs": 218,
+        "support_pct": 0.26,
+        "confidence_pct": 73.65,
+        "lift": 70.57,
+        "size": 3
+      }
+    ]
+  },
+  "clustering": {
+    "k": 16,
+    "silhouette": 0.2465,
+    "purity_pct": 56.6516,
+    "clustered_pct": 97.9433,
+    "silhouette_by_k": [
+      {
+        "k": 8,
+        "silhouette": 0.1626
+      },
+      {
+        "k": 10,
+        "silhouette": 0.185
+      },
+      {
+        "k": 12,
+        "silhouette": 0.2025
+      },
+      {
+        "k": 14,
+        "silhouette": 0.2203
+      },
+      {
+        "k": 16,
+        "silhouette": 0.247
+      },
+      {
+        "k": 18,
+        "silhouette": 0.2423
+      },
+      {
+        "k": 20,
+        "silhouette": 0.2661
+      }
+    ],
+    "clusters": [
+      {
+        "cluster": 5,
+        "name": "Communication / English / Team Management",
+        "jobs": 10859,
+        "top_skills": "Communication, English, Team Management, Hindi, Business Development, Excel",
+        "main_family": "Sales & Business Development",
+        "main_family_pct": 38.1,
+        "median_salary_lpa": 3.6
+      },
+      {
+        "cluster": 9,
+        "name": "CSS / Java / JavaScript",
+        "jobs": 9955,
+        "top_skills": "CSS, Java, JavaScript, C#, REST, Spring Boot",
+        "main_family": "Software Development",
+        "main_family_pct": 83.6,
+        "median_salary_lpa": 13.8
+      },
+      {
+        "cluster": 15,
+        "name": "Python / SQL / AWS",
+        "jobs": 7506,
+        "top_skills": "Python, SQL, AWS, Machine Learning, Kubernetes, Azure",
+        "main_family": "Software Development",
+        "main_family_pct": 43.6,
+        "median_salary_lpa": 15.0
+      },
+      {
+        "cluster": 11,
+        "name": "Sales / Business Development / Marketing",
+        "jobs": 7408,
+        "top_skills": "Sales, Business Development, Marketing, B2B Sales, Sales Management, Channel Sales",
+        "main_family": "Sales & Business Development",
+        "main_family_pct": 75.8,
+        "median_salary_lpa": 3.9
+      },
+      {
+        "cluster": 12,
+        "name": "Accounting / Finance / Compliance",
+        "jobs": 6794,
+        "top_skills": "Accounting, Finance, Compliance, TDS, GST, Tally",
+        "main_family": "Finance & Accounts",
+        "main_family_pct": 51.0,
+        "median_salary_lpa": 5.1
+      },
+      {
+        "cluster": 2,
+        "name": "Digital Marketing / Social Media / SEO",
+        "jobs": 5294,
+        "top_skills": "Digital Marketing, Social Media, SEO, Photoshop, US Healthcare, Graphic Designing",
+        "main_family": "Marketing & Content",
+        "main_family_pct": 31.8,
+        "median_salary_lpa": 4.0
+      },
+      {
+        "cluster": 3,
+        "name": "Customer Service / Voice Process / BPO",
+        "jobs": 5034,
+        "top_skills": "Customer Service, Voice Process, BPO, International Voice Process, International BPO, International Call Center",
+        "main_family": "Customer Support & BPO",
+        "main_family_pct": 67.1,
+        "median_salary_lpa": 3.2
+      },
+      {
+        "cluster": 4,
+        "name": "Troubleshooting / Networking / Linux",
+        "jobs": 4163,
+        "top_skills": "Troubleshooting, Networking, Linux, Technical Support, Dns, Switching",
+        "main_family": "IT Support & Networks",
+        "main_family_pct": 33.3,
+        "median_salary_lpa": 5.0
+      },
+      {
+        "cluster": 13,
+        "name": "Project Management / Business Analysis / Program Management",
+        "jobs": 4143,
+        "top_skills": "Project Management, Business Analysis, Program Management, Project, Team Management, Operations Management",
+        "main_family": "Management & Operations",
+        "main_family_pct": 57.9,
+        "median_salary_lpa": 10.5
+      },
+      {
+        "cluster": 1,
+        "name": "Production / Quality Control / Quality",
+        "jobs": 3930,
+        "top_skills": "Production, Quality Control, Quality, Quality Assurance, Control, Quality Audit",
+        "main_family": "Production, Supply Chain & Core Engg",
+        "main_family_pct": 58.4,
+        "median_salary_lpa": 4.5
+      },
+      {
+        "cluster": 6,
+        "name": "AutoCAD / Maintenance / Design Engineering",
+        "jobs": 3896,
+        "top_skills": "AutoCAD, Maintenance, Design Engineering, Mechanical, Electricals, CAD",
+        "main_family": "Production, Supply Chain & Core Engg",
+        "main_family_pct": 61.7,
+        "median_salary_lpa": 4.5
+      },
+      {
+        "cluster": 0,
+        "name": "SAP / SAP HANA / SAP ABAP",
+        "jobs": 3480,
+        "top_skills": "SAP, SAP HANA, SAP ABAP, SAP S HANA, SAP SD, ABAP",
+        "main_family": "SAP & ERP",
+        "main_family_pct": 59.1,
+        "median_salary_lpa": 13.0
+      },
+      {
+        "cluster": 8,
+        "name": "Recruitment / Talent Acquisition / HR Generalist Activities",
+        "jobs": 3304,
+        "top_skills": "Recruitment, Talent Acquisition, HR Generalist Activities, Screening, HRSD, Joining Formalities",
+        "main_family": "HR & Recruitment",
+        "main_family_pct": 66.6,
+        "median_salary_lpa": 3.9
+      },
+      {
+        "cluster": 10,
+        "name": "Automation / Software Testing / Automation Testing",
+        "jobs": 3136,
+        "top_skills": "Automation, Software Testing, Automation Testing, Selenium, Manual Testing, Regression Testing",
+        "main_family": "Software Development",
+        "main_family_pct": 65.7,
+        "median_salary_lpa": 10.4
+      },
+      {
+        "cluster": 14,
+        "name": "Procurement / Supply Chain / Purchase",
+        "jobs": 2719,
+        "top_skills": "Procurement, Supply Chain, Purchase, Vendor Management, Logistics, ERP",
+        "main_family": "Production, Supply Chain & Core Engg",
+        "main_family_pct": 54.1,
+        "median_salary_lpa": 4.5
+      },
+      {
+        "cluster": 7,
+        "name": "Oracle / SQL / PL/SQL",
+        "jobs": 2002,
+        "top_skills": "Oracle, SQL, PL/SQL, Performance Tuning, SAP, Python",
+        "main_family": "Software Development",
+        "main_family_pct": 40.1,
+        "median_salary_lpa": 15.2
+      }
+    ]
+  },
+  "matcher": {
+    "queries": 1000,
+    "precision_at_10_pct": 61.64,
+    "random_baseline_pct": 11.03,
+    "by_family": [
+      {
+        "family": "Software Development",
+        "queries": 221,
+        "precision_at_10_pct": 75.7,
+        "random_baseline_pct": 19.4
+      },
+      {
+        "family": "HR & Recruitment",
+        "queries": 25,
+        "precision_at_10_pct": 72.8,
+        "random_baseline_pct": 3.0
+      },
+      {
+        "family": "Customer Support & BPO",
+        "queries": 56,
+        "precision_at_10_pct": 70.9,
+        "random_baseline_pct": 4.5
+      },
+      {
+        "family": "Sales & Business Development",
+        "queries": 145,
+        "precision_at_10_pct": 69.8,
+        "random_baseline_pct": 12.6
+      },
+      {
+        "family": "SAP & ERP",
+        "queries": 60,
+        "precision_at_10_pct": 67.2,
+        "random_baseline_pct": 5.0
+      },
+      {
+        "family": "Marketing & Content",
+        "queries": 26,
+        "precision_at_10_pct": 62.7,
+        "random_baseline_pct": 2.9
+      },
+      {
+        "family": "Design & Creative",
+        "queries": 21,
+        "precision_at_10_pct": 61.0,
+        "random_baseline_pct": 1.5
+      },
+      {
+        "family": "Teaching & Education",
+        "queries": 18,
+        "precision_at_10_pct": 60.6,
+        "random_baseline_pct": 1.4
+      },
+      {
+        "family": "Finance & Accounts",
+        "queries": 71,
+        "precision_at_10_pct": 58.7,
+        "random_baseline_pct": 5.4
+      },
+      {
+        "family": "Data & AI",
+        "queries": 37,
+        "precision_at_10_pct": 57.3,
+        "random_baseline_pct": 3.5
+      },
+      {
+        "family": "Production, Supply Chain & Core Engg",
+        "queries": 88,
+        "precision_at_10_pct": 55.6,
+        "random_baseline_pct": 8.2
+      },
+      {
+        "family": "Management & Operations",
+        "queries": 184,
+        "precision_at_10_pct": 42.4,
+        "random_baseline_pct": 15.2
+      },
+      {
+        "family": "IT Support & Networks",
+        "queries": 30,
+        "precision_at_10_pct": 42.0,
+        "random_baseline_pct": 2.4
+      },
+      {
+        "family": "Healthcare & Pharma",
+        "queries": 18,
+        "precision_at_10_pct": 41.1,
+        "random_baseline_pct": 1.8
+      }
+    ]
+  }
+}
